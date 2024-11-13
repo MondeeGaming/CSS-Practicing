@@ -1,0 +1,93 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    font-family:'Outfit';
+    max-width:75%;
+    position: relative;
+
+}
+.Main-Background{
+    background-color:white;
+    max-width:80%;
+}
+.Main-Body{
+    border-radius:30px;
+    background-color:white;
+    position:absolute;
+    left:35%;
+    text-align: center;
+    
+}
+#Eggs{
+    border-radius: 20px;
+    padding-top:5%;
+}
+#Header-text{
+    text-align:left;
+    padding-left:3%;
+
+}
+#Prep{
+    text-align: left;
+    background-color: hsl(330, 100%, 98%);
+    max-width: 75%;
+    margin-left:10%;
+    padding-bottom:2%;
+    padding-left:5%;
+    padding-top:2%;
+}
+p{
+    font-size:16px;
+}
+h2{
+    color: hsl(14, 45%, 36%)
+}
+li{
+    font-size:16px;
+    padding:1%;
+}
+#Ingredients{
+    text-align: left;
+    padding-left:5%;
+    padding-right:5%;
+    
+}
+.line-breaking{
+    max-width:95%;
+    padding-left:3%;
+}
+hr{
+    padding-left:5%;
+    padding-right:5%;
+    opacity: 30%;
+    text-shadow: 20px;
+}
+
+#Instruction{
+    text-align: left;
+    padding-left:2%;
+    padding-right:5%;
+}
+#Nutrition{
+    text-align: left;
+    padding-left:5%;
+}
+ul{
+    list-style-type: none;
+}
+
+
+.caltable{
+    overflow:hidden;
+    word-spacing: 50%;
+    display:flex;
+    color: hsl(14, 45%, 36%)
+}
+
+
+table{
+    height:100%;
+    width:600%;
+    text-align: center;
+    padding:5%;
+    margin:5%;
+}
