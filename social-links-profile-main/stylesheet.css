@@ -1,0 +1,42 @@
+body{
+    background-color:black;
+    color:white;
+    font-size: 14px;
+}
+.Main{
+    max-width: 25%;
+    background-color:hsl(0, 0%, 8%);
+    text-align: center;
+    margin-left:600px;
+    margin-right:600px;
+    margin-top:5%;
+}
+#profilepic{
+    border-radius: 50%;
+    width:100px;
+}
+.MainText{
+    padding-top:10%;
+}
+
+h4{
+    color: hsl(75, 94%, 57%)
+}
+.buttons{
+    background-color:hsl(0, 0%, 20%);
+    color:white;
+    width:100%;
+    max-width:90%;
+    max-height: 50%;
+    height:50px;
+    border-style:hidden;
+    border-radius: 5%;
+    margin-top:2%;
+}
+.buttons:hover{
+    background-color:hsl(0, 0%, 12%);
+    color:white;
+}
+.attribution{
+    margin-top:5%;
+}
